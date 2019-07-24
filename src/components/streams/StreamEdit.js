@@ -1,8 +1,11 @@
 import React from 'react';
 
 
-const StreamEdit = () => {
-  return <div>StreamEdit</div>
+class StreamEdit extends React.Component {
+
+  render() {
+    return <div>StreamEdit</div>
+  }
 };
 
 export default StreamEdit
