@@ -7,7 +7,6 @@ import StreamEdit from './streams/StreamEdit';
 import StreamDelete from './streams/StreamDelete';
 import Header from './Header';
 import history from '../history';
-import { Stream } from 'stream';
 
 
 class App extends React.Component {
